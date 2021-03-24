@@ -1,0 +1,20 @@
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Atividade 4.exe
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Atividade 4.deps.json
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Atividade 4.runtimeconfig.json
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Atividade 4.runtimeconfig.dev.json
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Atividade 4.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Atividade 4.pdb
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.csprojAssemblyReference.cache
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.csproj.CoreCompileInputs.cache
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.MvcApplicationPartsAssemblyInfo.cache
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.AssemblyInfoInputs.cache
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.AssemblyInfo.cs
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.RazorTargetAssemblyInfo.cache
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 4.StaticWebAssets.Manifest.cache
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 4.StaticWebAssets.xml
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.pdb
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.genruntimeconfig.cache
