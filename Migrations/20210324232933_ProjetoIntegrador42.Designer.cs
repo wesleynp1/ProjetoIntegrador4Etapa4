@@ -3,14 +3,16 @@ using System;
 using Atividade_4.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Atividade_4.Migrations
 {
     [DbContext(typeof(BDcontext))]
-    partial class BDcontextModelSnapshot : ModelSnapshot
+    [Migration("20210324232933_ProjetoIntegrador42")]
+    partial class ProjetoIntegrador42
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
