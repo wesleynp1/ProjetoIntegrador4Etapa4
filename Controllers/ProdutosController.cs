@@ -10,7 +10,7 @@ namespace Atividade_4.Controllers
         [HttpGet]
         public IActionResult ObterProdutos()
         {
-            return Ok(new BDmock().BuscaProdutosNoBD());
+            return Ok(new BDmock().BuscaProdutosNoBDmock());
         }
     }
 }

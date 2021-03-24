@@ -18,3 +18,12 @@ E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Deb
 E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.dll
 E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.pdb
 E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.genruntimeconfig.cache
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Senac EAD\TecInfoParaInternet\Projeto Integrador Modulo 4\Atividade 4\obj\Debug\netcoreapp3.1\Atividade 4.csproj.CopyComplete
