@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Atividade_4.Models;
 
 namespace Atividade_4.Controllers
 {
@@ -9,7 +10,7 @@ namespace Atividade_4.Controllers
         [HttpGet]
         public IActionResult ObterProdutos()
         {
-            return Ok("resultado bom");
+            return Ok(new BDmock().BuscaProdutosNoBD());
         }
     }
 }
