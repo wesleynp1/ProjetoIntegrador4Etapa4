@@ -10,7 +10,15 @@ namespace Atividade_4.Controllers
         [HttpGet]
         public IActionResult ObterProdutos()
         {
-            return Ok(new BDmock().BuscaProdutosNoBDmock());
+            return Ok(new ProdutosVendasContext().BuscaProdutosNoBD());
+        }
+
+        [HttpPost]
+        public IActionResult inserirProduto(Produto p)
+        {
+            if(!ModelState.IsValid)return BadRequest(ModelState);
+            new ProdutosVendasContext().InsereProdutoNoBD(p);
+            return Ok(p);
         }
     }
 }
